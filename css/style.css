@@ -1,0 +1,40 @@
+body {
+	font-family: 'Newsreader', serif;
+	font-size: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Truculenta', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: green;
+	letter-spacing: 0.25em;
+}
+
+a:hover {
+	text-decoration: none;
+	color: lime;
+}
+
+header h1 {
+	font-size: 5em;
+	text-align: center;
+}
+
+header h2 {
+	text-align: center;
+}
+
+#outputtext {
+	text-align: center;
+	font-size: 2em;
+	margin: 15px 0 0 0;
+}
+
+footer p {
+	font-family: 'Truculenta', sans-serif;
+	font-size: 0.7 em !important;
+	text-align: center;
+}
